@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body * {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: url(./assets/bg.jpg) center/cover no-repeat;
+  height: 100vh;
+}
+
+.card {
+  display: inline-block;
+  background-image: url(./assets/card-Front.png);
+  background-size: cover;
+  width: 17.7rem;
+  height: 25.7rem;
+  padding: 0px 24px;
+  opacity: 0;
+  animation: appear 4s forwards;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.card > img {
+  text-align: left;
+  width: 7.1rem;
+  height: 10.5rem;
+  border: 3px solid black;
+  object-fit: cover;
+  margin-top: 5.9rem;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  display: grid;
+}
+.info {
+  width: 14.5rem;
+  margin-top: 1.7rem;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.info .id {
+  display: grid;
+  margin-top: 1.8rem;
+  letter-spacing: 0.2rem;
+}
+
+footer {
+  position: absolute;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  top: 40em;
+  width: 100%;
+  height: 2rem;
+  text-transform: uppercase;
+}
+
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #f8ad13;
+  width: 12rem;
+  opacity: 0.5;
+}
+footer a:hover {
+  opacity: 1;
+}
+
+@keyframes appear {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+@media (max-width: 428px) {
+  body {
+    background: url(./assets/bgMobile.jpg) center/cover no-repeat;
+  }
+
+  footer {
+    top: 45em;
+    opacity: 0.5;
+  }
+  footer:hover {
+    opacity: 1;
+  }
+}
