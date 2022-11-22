@@ -1,10 +1,11 @@
-# <a href = "" target = 'blank'> <img src = "./.github/favicon.png"></a> Vault-Tec Card
+# <a href = "https://carloscunha611.github.io/VaultTecCard/" target = 'blank'> <img src = "./.github/favicon.png"></a> Vault-Tec Card
 
 ![preview](./.github/preview.png)
 
 ## 💻 Funcionalidades
 
-- Click no card para virar.
+- Click no card para virar;
+- Multiplataforma.
 
 ## ⚙ Tecnologias
 
@@ -12,4 +13,4 @@
 
 ## 🔗 Links
 
-<a href = "https://t.me/Carloscunha611"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'> <a href = "https://www.linkedin.com/in/carloscunha611/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://t.me/Carloscunha611"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'> <a href = "https://www.linkedin.com/in/carloscunha611/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href = "https://carloscunha611.github.io/VaultTecCard/" target = 'blank'> <img src = "./.github/favicon.png"></a>

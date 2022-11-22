@@ -57,47 +57,24 @@ body {
   letter-spacing: 0.2rem;
 }
 
-footer {
-  position: absolute;
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  top: 40em;
-  width: 100%;
-  height: 2rem;
-  text-transform: uppercase;
-}
-
-footer a {
+a {
+  top: 2rem;
   text-decoration: none;
-  font-weight: bold;
-  color: #f8ad13;
-  width: 12rem;
-  opacity: 0.5;
-}
-footer a:hover {
-  opacity: 1;
+  text-transform: uppercase;
+  color: #c0c0c0;
 }
 
 @keyframes appear {
   from {
-    transform: translateY(0px);
+    transform: translateY(10px);
   }
   to {
     opacity: 1;
-    transform: translateY(0px);
+    transform: translateY(-10px);
   }
 }
-@media (min-width: 359px) {
+@media (max-width: 428px) {
   body {
     background: url(./assets/bgMobile.jpg) center/cover no-repeat;
-  }
-
-  footer {
-    top: 40em;
-    opacity: 0.5;
-  }
-  footer:hover {
-    opacity: 1;
   }
 }
