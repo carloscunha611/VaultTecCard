@@ -88,13 +88,13 @@ footer a:hover {
     transform: translateY(0px);
   }
 }
-@media (max-width: 428px) {
+@media (min-width: 359px) {
   body {
     background: url(./assets/bgMobile.jpg) center/cover no-repeat;
   }
 
   footer {
-    top: 45em;
+    top: 40em;
     opacity: 0.5;
   }
   footer:hover {
