@@ -11,14 +11,21 @@ Projeto pessoal
   <a href="#-Links">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![preview](./.github/preview.png)
+<div align = center>
 
-> O Vault-Tec Card mostra seu cartao de idenficação na vault.
+![preview](./.github/preview.png)
 
 # 💻 Funcionalidades
 
 ◾ Click no card para virar
-◾ Responsividade.
+◾ Responsividade
+
+## ▶ Demonstração
+
+  <img src = "./.github/mobile.gif" width=150>
+</div>
+
+> O Vault-Tec Card mostra seu cartão de idenficação na impresa vault.
 
 # 🎨 Layout
 
