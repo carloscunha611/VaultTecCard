@@ -29,7 +29,7 @@ Projeto pessoal
 
 # 🎨 Layout
 
-<a href = "https://www.figma.com/file/gv63bKtblSVadOpthsO46e/Vault-Tec-Card?node-id=0%3A1&t=FCJxxYRCWTUwDkms-1" target = '_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width =20 /></a> Você pode vizualizar o layout clicando no figma.
+<a href = "https://www.figma.com/file/gv63bKtblSVadOpthsO46e/Vault-Tec-Card?node-id=0%3A1&t=FCJxxYRCWTUwDkms-1" target = '_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width =20 /></a> Você pode visualizar o layout clicando no figma.
 
 # ⚙ Tecnologias
 
