@@ -13,7 +13,11 @@ Projeto pessoal
 
 <div align = center>
 
-![preview](./.github/preview.png)
+<div>
+
+<img src = "./.github/preview.png" width=500>
+
+</div>
 
 # 💻 Funcionalidades
 
